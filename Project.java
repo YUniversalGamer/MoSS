@@ -203,5 +203,10 @@ public class Project
         return tasks[index];
     }
 
+    public int getProjectLength()
+    {
+        return tasks.length;
+    }
+
 
 }
